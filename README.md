@@ -6,6 +6,8 @@ FIREBASE: https://laboratorio-5-ieti.web.app
 - Usuario: mora@mail.com
 - Contraseña: 123
 
+ ![Celular](images/celular.jpeg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
